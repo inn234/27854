@@ -43,4 +43,4 @@ SOD轻量资源站 – 官方镜像版本，片源清晰、分类详细，含素
 
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/inn234/27854 ）</span>
